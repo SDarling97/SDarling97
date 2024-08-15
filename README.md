@@ -20,7 +20,7 @@ I have a keen interest in working with large sales datasets, where I combine my 
 
 - **Programming Languages:** Python (with Numpy, Pandas, Matplotlib, Seaborn)
 - **Database Management:** SQL Server (intermediate to advanced queries)
-- **Data Visualization:** Power BI (DAX functions), Excel (Pivot Tables, VLOOKUPs, Data Analysis)
+- **Data Analysis + Reporting:** Power BI (DAX functions), Excel (Pivot Tables, VLOOKUPs, Data Analysis)
 
 ## 📊 My Projects
 
