@@ -19,8 +19,8 @@ I have a keen interest in working with large sales datasets, where I combine my 
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [LinkedIn Profile Placeholder](https://www.linkedin.com/in/samuel-darling-84586b15b/)
-- Email: [Email Placeholder](sjdarlingbusiness@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samuel-darling-84586b15b/)
+- Email: [Email](mailto:sjdarlingbusiness@gmail.com)
 
 ## 🎨 Something Fun!
 
