@@ -32,7 +32,7 @@ I have a keen interest in working with large sales datasets, where I combine my 
 </p>
 
 - **Programming Languages:** Python (with Numpy, Pandas, Matplotlib, Seaborn)
-- **Database Management:** SQL Server (intermediate to advanced queries)
+- **Database Management:** SQL Server / SSMS (intermediate to advanced queries)
 - **Data Visualization:** Power BI (DAX functions)
 
 
