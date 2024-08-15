@@ -15,13 +15,12 @@ I have a keen interest in working with large sales datasets, where I combine my 
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/office/40/000000/excel.png" alt="Excel" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/></a>
 </p>
 
 - **Programming Languages:** Python (with Numpy, Pandas, Matplotlib, Seaborn)
 - **Database Management:** SQL Server (intermediate to advanced queries)
 - **Data Visualization:** Power BI (DAX functions), Excel (Pivot Tables, VLOOKUPs, Data Analysis)
-
 
 ## 📊 My Projects
 
