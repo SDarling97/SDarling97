@@ -5,6 +5,8 @@ I am 26 years old from London, UK. I recently graduated with a Bachelor of Scien
 
 I have a keen interest in working with large sales datasets, where I combine my finance and business background with data analysis to uncover what factors are affecting businesses—whether it's internal operations, economic influences, or a combination of both.
 
+I still have a lot to learn and so I am looking for junior positions to which I can bring my enthusiasm and curiosity! 
+
 ## 🛠️ Technologies & Tools
 
 <p align="left">
