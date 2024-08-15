@@ -27,13 +27,14 @@ I have a keen interest in working with large sales datasets, where I combine my 
     <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/> 
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.icons8
-      </a>
-      </p>
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+  </a>
+</p>
 
 - **Programming Languages:** Python (with Numpy, Pandas, Matplotlib, Seaborn)
 - **Database Management:** SQL Server (intermediate to advanced queries)
 - **Data Visualization:** Power BI (DAX functions)
+
 
 ## 📊 My Projects
 
