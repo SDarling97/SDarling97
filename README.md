@@ -1,4 +1,4 @@
-![Minimalist Gradient Banner](https://raw.githubusercontent.com/kyechan99/capsule-render/master/theme/gradient/gradient.png)
+![Code-Themed Banner](https://raw.githubusercontent.com/kyechan99/capsule-render/master/theme/nord/nord.png)
 
 
 # Hi there, I'm Sam 👋
