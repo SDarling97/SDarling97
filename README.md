@@ -1,4 +1,5 @@
-![Code-Themed Banner](https://raw.githubusercontent.com/kyechan99/capsule-render/master/theme/nord/nord.png)
+![Data Banner](https://raw.githubusercontent.com/kyechan99/capsule-render/master/theme/skyline/skyline.png)
+
 
 
 # Hi there, I'm Sam 👋
