@@ -1,4 +1,3 @@
-![Test Banner](https://via.placeholder.com/1000x200.png?text=Your+Banner+Here)
 
 # Hi there, I'm Sam 👋
 
