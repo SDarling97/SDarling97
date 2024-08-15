@@ -1,3 +1,6 @@
+![Minimalist Gradient Banner](https://raw.githubusercontent.com/kyechan99/capsule-render/master/theme/gradient/gradient.png)
+
+
 # Hi there, I'm Sam 👋
 
 
