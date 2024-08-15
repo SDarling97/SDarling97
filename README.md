@@ -19,7 +19,7 @@ I have a keen interest in working with large sales datasets, where I combine my 
 
 ## 📊 My Projects
 
-🔗 [View My Projects](#) *(Placeholder link to your project showcase page)*
+🔗 [View My Projects](https://github.com/SDarling97/portfolio)
 
 *(Instructions for creating a project showcase page below)*
 
