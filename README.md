@@ -21,8 +21,6 @@ I have a keen interest in working with large sales datasets, where I combine my 
 
 🔗 [View My Projects](https://github.com/SDarling97/portfolio)
 
-*(Instructions for creating a project showcase page below)*
-
 ## 🌐 Connect with Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samuel-darling-84586b15b/)
