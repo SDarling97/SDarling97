@@ -22,7 +22,4 @@ I have a keen interest in working with large sales datasets, where I combine my 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samuel-darling-84586b15b/)
 - Email: [Email](mailto:sjdarlingbusiness@gmail.com)
 
-## 🎨 Something Fun!
-
-![Data Analysis GIF](https://media.giphy.com/media/3oz8xLz5mMJb8rC5H6/giphy.gif)  
-*Data is beautiful, isn't it?*
+![Data Analysis GIF](<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>)  
