@@ -31,7 +31,7 @@ I have a keen interest in working with large sales datasets, where I combine my 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samuel-darling-84586b15b/)
 - Email: sjdarlingbusiness@gmail.com
 - 
-## 🎧🥊🏋️‍♀️🇪🇸✈️ About Me
+## 🎧🥊✈️ About Me
 
 Outside of work, I enjoy a variety of activities:
 - **Music**  I am a huge music fan spanning from heavy metal to country to bhangra to drum and bass! I like producing on Ableton as a hobby.
