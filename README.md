@@ -24,6 +24,6 @@ I have a keen interest in working with large sales datasets, where I combine my 
 ## 🌐 Connect with Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samuel-darling-84586b15b/)
-- Email: [Email](mailto:sjdarlingbusiness@gmail.com)
+- Email: sjdarlingbusiness@gmail.com
 
 ![Data Analysis GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlxaGxrMm1xaTltMTBlNmh3bG40MHI3bDE0OWtuaHlvbXJwMTZwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp)  
