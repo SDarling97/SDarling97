@@ -28,6 +28,8 @@ I have a keen interest in working with large sales datasets, where I combine my 
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.icons8
+      </a>
+      </p>
 
 - **Programming Languages:** Python (with Numpy, Pandas, Matplotlib, Seaborn)
 - **Database Management:** SQL Server (intermediate to advanced queries)
