@@ -1,6 +1,5 @@
 # Hi there, I'm Sam 👋
 
-![Profile Picture Placeholder](https://via.placeholder.com/150)
 
 I'm a 26-year-old Data Analyst from London, UK. I recently graduated with a Bachelor of Science in Finance, where I spent two years studying in the US and completed my final year online. During my studies, I discovered a passion for data analysis and data science, particularly using Python. This interest led me to learn SQL and Power BI to further enhance my analytical skills.
 
