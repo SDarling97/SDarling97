@@ -15,10 +15,10 @@ I have a keen interest in working with large sales datasets, where I combine my 
     <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="Numpy" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
   </a>
   <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> 
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
@@ -27,13 +27,14 @@ I have a keen interest in working with large sales datasets, where I combine my 
     <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/> 
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="40" height="40"/>
   </a>
 </p>
 
 - **Programming Languages:** Python (with Numpy, Pandas, Matplotlib, Seaborn)
 - **Database Management:** SQL Server (intermediate to advanced queries)
 - **Data Visualization:** Power BI (DAX functions)
+
 
 
 ## 📊 My Projects
