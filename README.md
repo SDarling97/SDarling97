@@ -7,6 +7,28 @@ I have a keen interest in working with large sales datasets, where I combine my 
 
 ## 🛠️ Technologies & Tools
 
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> 
+  </a>
+  <a href="https://numpy.org/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="Numpy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" width="40" height="40"/> 
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/> 
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.icons8
+
 - **Programming Languages:** Python (with Numpy, Pandas, Matplotlib, Seaborn)
 - **Database Management:** SQL Server (intermediate to advanced queries)
 - **Data Visualization:** Power BI (DAX functions)
