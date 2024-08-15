@@ -1,6 +1,4 @@
-![Data Banner](https://raw.githubusercontent.com/kyechan99/capsule-render/master/theme/skyline/skyline.png)
-
-
+![Test Banner](https://via.placeholder.com/1000x200.png?text=Your+Banner+Here)
 
 # Hi there, I'm Sam 👋
 
