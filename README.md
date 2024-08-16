@@ -22,7 +22,7 @@ I still have a lot to learn and so I am looking for junior positions to which I 
 
 - **Programming Languages:** Python (with Numpy, Pandas, Matplotlib, Seaborn)
 - **Database Management:** SQL Server (intermediate to advanced queries)
-- **Data Analysis + Reporting:** Power BI (DAX functions), Excel (Pivot Tables, VLOOKUPs, Data Analysis)
+- **Data Analysis + Reporting:** Power BI (DAX functions), Excel (Pivot Tables, VLOOKUPs)
 
 ## 📊 My Projects
 
