@@ -20,7 +20,7 @@ I still have a lot to learn and so I am looking for junior positions to which I 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://github.com/SDarling97/portfolio/blob/main/icons8-excel-48.png?raw=true" alt="Excel" width="40" height="40"/></a>
 </p>
 
-- **Programming Languages:** Python (with Numpy, Pandas, Matplotlib, Seaborn)
+- **Programming Languages:** Python (with Numpy, Pandas, Matplotlib, Seaborn, BeautifulSoup + Requests)
 - **Database Management:** SQL Server (intermediate to advanced queries)
 - **Data Analysis + Reporting:** Power BI (DAX functions), Excel (Pivot Tables, VLOOKUPs)
 
